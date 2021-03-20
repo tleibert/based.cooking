@@ -1,4 +1,4 @@
-# This is the dish title
+# Penne Alla Vodka
 
 If necessary, provide a very brief description of the dish in one or two sentences.
 For most dishes, this will be unnecessary.
@@ -11,12 +11,12 @@ You may also include prep/cook time and the number of servings as below:
 
 ## Ingredients
 
-- There must be a blank line above all lists.
-- List the ingredients
-- in an unordered list
-- similar to this.
-- List amounts if necessary.
-- Put (optional) at the end of optional ingredients
+- Tomato Paste (1 cup)
+- Garlic - fresh or minced (
+- Green Onion
+- Vodka (1/4 cup)
+- Heavy/Whipping cream (1/4 cup)
+- Penne, or pasta of your choice (1 lb)
 
 ## Directions
 
